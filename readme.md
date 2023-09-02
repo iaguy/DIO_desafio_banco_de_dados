@@ -27,7 +27,6 @@ Aqui estão alguns exemplos de consultas SQL que podem ser executadas neste banc
   ```sql
   SELECT * FROM Cliente WHERE Tipo = 'PF';
 
-    Recuperação de pedidos de um cliente Pessoa Jurídica:
 
 - Recuperação simples de clientes Pessoa Jurídica:
     ```sql
